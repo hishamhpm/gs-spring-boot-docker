@@ -7,7 +7,7 @@ spring:
     name: testLatticeApp
 
 ribbon:
-  ServerListRefreshInterval: 1000
+  ServerListRefreshInterval: 2000
 
 endpoints:
   health:
